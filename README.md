@@ -1,4 +1,4 @@
-# Bolters - Portal de Corrida / Running portal :computer:
+# Rotating Nav
 
 ## English  
 
