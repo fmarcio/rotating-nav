@@ -8,6 +8,8 @@ Reference used: Brad Traversy's & Florin Pop course "50 projects in 50 days".
 
 Languages/technologies used: HTML, CSS and Javascript. The whole project is responsive.
 
+**Check this project on [Github Pages]:**(https://fmarcio.github.io/rotating-nav/)
+
 ## Português
 
 Menu interativo para um artigo de um blog. 
@@ -15,6 +17,8 @@ Menu interativo para um artigo de um blog.
 Referência: curso "50 projects in 50 days", por Brad Traversy & Florin Pop.
 
 Linguagens/tecnologias usadas: HTML, CSS and Javascript. Todo o projeto é responsivo.
+
+**Confira esse projeto no [Github Pages]:**(https://fmarcio.github.io/rotating-nav/)
  
 ## Social Media / Redes Sociais
 
